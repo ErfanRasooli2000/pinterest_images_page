@@ -1,0 +1,12 @@
+.img-holder
+{
+    position: absolute;
+    padding: 8px;
+    top: 0;
+    left: 0;
+}
+.img-holder img
+{
+    border-radius: 15px;
+    width: 100%;
+}
